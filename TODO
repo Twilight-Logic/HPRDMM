@@ -1,0 +1,13 @@
+
+TODO:
+- optimise GPIB serial communications
+- enhance log file options and logged information
+--- full speed option?
+- optimise serial comms
+--- too much delay on clicking command buttons
+- complete instrument recognition on 'S' command routine
+- implement graph?
+- implement SRQ function
+- add instrument configuration options
+--- to configure the meter sample interval (optimise serial comms first)
+

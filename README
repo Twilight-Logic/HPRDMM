@@ -1,0 +1,11 @@
+HP Remote DMM Display and Control
+=====================================
+This application is intended to provide a remote display and control facility for
+the HP3478A Digital Multimeter via HPIB (GPIB).
+
+The application requires an GPIB interface. The software was tested using a GPIB
+interface buit using an Andruino board as described by Emanuale Girlando here:
+
+http://egirland.blogspot.co.uk/2014/03/arduino-uno-as-usb-to-gpib-controller.html
+
+
